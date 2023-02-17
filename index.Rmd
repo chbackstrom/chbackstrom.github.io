@@ -1,15 +1,11 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Callum Backstrom"
+image: "chbackstrom.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "callumhb@uw.edu"
 output:
   postcards::trestles
 ---
